@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="./assets/banner.svg" alt="e1 banner" width="100%"/>
-</p>
+<h1 align="center">
+  e1 by EigenCore
+</h1>
 
 <p align="center">
   <a href="https://github.com/eigencore/e1"><img src="https://img.shields.io/badge/1B_parámetros-FF6B35?style=flat-square" /></a>
