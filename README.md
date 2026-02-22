@@ -1,28 +1,15 @@
-<h1 align="center">e1</h1>
-
 <p align="center">
-  <a href="https://github.com/eigencore/e1"><img src="https://img.shields.io/badge/EigenCore-e1-black?style=flat-square&logoColor=white" /></a>
-  <a href="https://github.com/eigencore/e1"><img src="https://img.shields.io/badge/EigenCore-1B_parámetros-FF6B35?style=flat-square" /></a>
+  <img src="./assets/banner.svg" alt="e1 banner" width="100%"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/eigencore/e1"><img src="https://img.shields.io/badge/Arquitectura-LLaMA--3_style-black?style=flat-square" /></a>
-  <a href="https://github.com/eigencore/e1"><img src="https://img.shields.io/badge/Arquitectura-PyTorch_puro-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/eigencore/e1"><img src="https://img.shields.io/badge/Entrenamiento-Español_primero-black?style=flat-square" /></a>
-  <a href="https://github.com/eigencore/e1"><img src="https://img.shields.io/badge/Entrenamiento-100B_tokens-6C63FF?style=flat-square" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/eigencore/e1"><img src="https://img.shields.io/badge/EigenCore-Open_Source-black?style=flat-square" /></a>
-  <a href="https://github.com/eigencore/e1"><img src="https://img.shields.io/badge/EigenCore-Apache_2.0-22C55E?style=flat-square" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/eigencore/e1"><img src="https://img.shields.io/badge/Origen-LATAM_🌎-black?style=flat-square" /></a>
-  <a href="https://x.com/eigencore"><img src="https://img.shields.io/badge/Origen-@eigencore-8B5CF6?style=flat-square&logo=x&logoColor=white" /></a>
+  <a href="https://github.com/eigencore/e1"><img src="https://img.shields.io/badge/1B_parámetros-FF6B35?style=flat-square" /></a>
+  <a href="https://github.com/eigencore/e1"><img src="https://img.shields.io/badge/PyTorch_puro-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /></a>
+  <a href="https://github.com/eigencore/e1"><img src="https://img.shields.io/badge/LLaMA--3_style-6C63FF?style=flat-square" /></a>
+  <a href="https://github.com/eigencore/e1"><img src="https://img.shields.io/badge/100B_tokens-8B5CF6?style=flat-square" /></a>
+  <a href="https://github.com/eigencore/e1"><img src="https://img.shields.io/badge/Español_primero-F59E0B?style=flat-square" /></a>
+  <a href="https://github.com/eigencore/e1"><img src="https://img.shields.io/badge/Apache_2.0-22C55E?style=flat-square" /></a>
+  <a href="https://x.com/eigencore"><img src="https://img.shields.io/badge/@eigencore-000000?style=flat-square&logo=x&logoColor=white" /></a>
 </p>
 
 ---
