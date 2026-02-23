@@ -3,12 +3,15 @@
 </h1>
 
 <p align="center">
+  <a href="https://github.com/eigencore/e1/stargazers"><img src="https://img.shields.io/github/stars/eigencore/e1?style=flat-square&color=FFD700&label=stars" /></a>
+  <a href="https://github.com/eigencore/e1/network/members"><img src="https://img.shields.io/github/forks/eigencore/e1?style=flat-square&color=6C63FF&label=forks" /></a>
+  <a href="https://github.com/eigencore/e1/blob/main/LICENSE"><img src="https://img.shields.io/badge/licencia-MIT-22C55E?style=flat-square" /></a>
   <a href="https://github.com/eigencore/e1"><img src="https://img.shields.io/badge/1B_parámetros-FF6B35?style=flat-square" /></a>
   <a href="https://github.com/eigencore/e1"><img src="https://img.shields.io/badge/PyTorch_puro-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /></a>
   <a href="https://github.com/eigencore/e1"><img src="https://img.shields.io/badge/LLaMA--3_style-6C63FF?style=flat-square" /></a>
   <a href="https://github.com/eigencore/e1"><img src="https://img.shields.io/badge/100B_tokens-8B5CF6?style=flat-square" /></a>
   <a href="https://github.com/eigencore/e1"><img src="https://img.shields.io/badge/Español_primero-F59E0B?style=flat-square" /></a>
-  <a href="https://github.com/eigencore/e1"><img src="https://img.shields.io/badge/Apache_2.0-22C55E?style=flat-square" /></a>
+  <a href="https://x.com/eigencore"><img src="https://img.shields.io/badge/Sigue_el_build-%23000000?style=flat-square&logo=x&logoColor=white" /></a>
 </p>
 
 ---
@@ -18,8 +21,8 @@
 <p align="center">
   <a href="#">Documentación</a> ·
   <a href="#">Paper técnico</a> ·
-  <a href="https://x.com/MaxGalindo5">Sigue el build en X</a> ·
-  <a href="#">EigenCore</a>
+  <a href="https://x.com/eigencore">Sigue el build en X</a> ·
+  <a href="https://github.com/eigencore">EigenCore</a>
 </p>
 
 ---
@@ -80,6 +83,8 @@ git clone https://github.com/eigencore/e1
 cd e1
 ```
 
+---
+
 ## Estado del proyecto
 
 | Fase | Estado |
@@ -93,6 +98,12 @@ cd e1
 
 ---
 
+## Licencia
+
+Este proyecto está bajo la [Licencia MIT](LICENSE). Úsalo, modifícalo, aprende de él.
+
+---
+
 <p align="center">
-  Construido en público desde LATAM 🌎 por <a href="https://github.com/eigencore">EigenCore</a>
+  Construido en público desde LATAM 🌎 por <a href="https://github.com/eigencore">EigenCore</a> · <a href="https://x.com/eigencore">@eigencore</a>
 </p>
