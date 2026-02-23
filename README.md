@@ -9,7 +9,6 @@
   <a href="https://github.com/eigencore/e1"><img src="https://img.shields.io/badge/100B_tokens-8B5CF6?style=flat-square" /></a>
   <a href="https://github.com/eigencore/e1"><img src="https://img.shields.io/badge/Español_primero-F59E0B?style=flat-square" /></a>
   <a href="https://github.com/eigencore/e1"><img src="https://img.shields.io/badge/Apache_2.0-22C55E?style=flat-square" /></a>
-  <a href="https://x.com/MaxGalindo5"><img src="https://x.com/MaxGalindo5" /></a>
 </p>
 
 ---
