@@ -19,7 +19,7 @@
 <p align="center">
   <a href="#">Documentación</a> ·
   <a href="#">Paper técnico</a> ·
-  <a href="https://x.com/eigencore">Sigue el build en X</a> ·
+  <a href="https://x.com/MaxGalindo5">Sigue el build en X</a> ·
   <a href="#">EigenCore</a>
 </p>
 
