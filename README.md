@@ -52,6 +52,10 @@ La mayoría de la gente usa modelos de lenguaje. Nosotros construimos uno.
 
 ## Arquitectura
 
+<p align="center">
+  <img src="images/image.png" alt="Arquitectura e1" width="480" />
+</p>
+
 ```
 e1-1B
 ├── Parámetros:      1,000,000,000
