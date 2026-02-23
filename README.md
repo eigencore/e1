@@ -11,7 +11,7 @@
   <a href="https://github.com/eigencore/e1"><img src="https://img.shields.io/badge/LLaMA--3_style-6C63FF?style=flat-square" /></a>
   <a href="https://github.com/eigencore/e1"><img src="https://img.shields.io/badge/100B_tokens-8B5CF6?style=flat-square" /></a>
   <a href="https://github.com/eigencore/e1"><img src="https://img.shields.io/badge/Español_primero-F59E0B?style=flat-square" /></a>
-  <a href="https://x.com/eigencore"><img src="https://img.shields.io/badge/Sigue_el_build-%23000000?style=flat-square&logo=x&logoColor=white" /></a>
+  <a href="https://x.com/MaxGalindo5"><img src="https://img.shields.io/badge/Sigue_el_build-%23000000?style=flat-square&logo=x&logoColor=white" /></a>
 </p>
 
 ---
@@ -21,7 +21,7 @@
 <p align="center">
   <a href="#">Documentación</a> ·
   <a href="#">Paper técnico</a> ·
-  <a href="https://x.com/eigencore">Sigue el build en X</a> ·
+  <a href="https://x.com/MaxGalindo5">Sigue el build en X</a> ·
   <a href="https://github.com/eigencore">EigenCore</a>
 </p>
 
@@ -105,5 +105,5 @@ Este proyecto está bajo la [Licencia MIT](LICENSE). Úsalo, modifícalo, aprend
 ---
 
 <p align="center">
-  Construido en público desde LATAM 🌎 por <a href="https://github.com/eigencore">EigenCore</a> · <a href="https://x.com/eigencore">@eigencore</a>
+  Construido en público desde LATAM 🌎 por <a href="https://github.com/eigencore">EigenCore</a> · <a href="https://x.com/MaxGalindo5">@MaxGalindo5</a>
 </p>
